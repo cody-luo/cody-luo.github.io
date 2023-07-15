@@ -10,6 +10,7 @@ mathjax: on
 <form action="#">
 用户名: <input type="text" name="username"><br>
 <input type="button" value="OK">
+</form>
 </div>
 <p><strong>strong粗体</strong> <em>em强调</em> a<sup>2</sup></p>
 <figure>
