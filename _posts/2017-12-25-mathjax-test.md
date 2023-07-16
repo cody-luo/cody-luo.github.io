@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "test"
+title:  "MathJax Test"
 tags: jekyll MathJax
 mathjax: true
 ---
