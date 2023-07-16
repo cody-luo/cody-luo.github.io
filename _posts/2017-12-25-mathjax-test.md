@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "test"
-tags: jekyll
-mathjax: on
+tags: jekyll MathJax
+mathjax: true
 ---
 
 # h1
@@ -20,8 +20,7 @@ mathjax: on
 - s
 - t
 
-word-breaking word-breaking word-breaking word-breaking word-breaking word-breaking word-breaking word-breaking word-breaking word-breaking
-
+word-breaking word-breaking
 \\( MathJax \\)
 
 When \\(a \ne 0\\), there are two solutions to \\(ax^2 + bx + c = 0\\) and   they are

@@ -2,7 +2,6 @@
 layout: post
 title:  "Using-HTML-in-Jekyll-Post"
 tags: jekyll
-mathjax: on
 ---
 
 <h1>标题一级</h1>
