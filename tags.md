@@ -5,11 +5,6 @@ permalink: /tags/
 ---
 
 {% for tag in site.tags %}{% assign tagname = tag[0] %}[#{{ tagname }}](#{{ tagname }}) {% endfor %}
-
----
-layout: base
----
-
 {% for tag in site.tags %}
 ### {{ tag[0] }}
 {{ tag[1] | size }} posts
