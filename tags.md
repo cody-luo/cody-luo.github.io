@@ -14,6 +14,6 @@ layout: base
 ### {{ tag[0] }}
 {{ tag[1] | size }} posts
   {% for post in tag[1] %}
- - [{{ post.title }}]({% include relative %}{{ post.url }})
+ - [{{ post.title }}]({{ post.url }})
   {% endfor %}
 {% endfor %}
