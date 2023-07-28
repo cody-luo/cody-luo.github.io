@@ -24,10 +24,10 @@ When \\(a \ne 0\\), there are two solutions to \\(ax^2 + bx + c = 0\\) and   the
 
 
 #### Cauchy's Integral Formula
-    Cauchy's Integral Formula is:  $f(a) = \frac{1}{2\pi i} \oint\frac{f(z)}{z-a}dz$ !!!
+Cauchy's Integral Formula is:  $f(a) = \frac{1}{2\pi i} \oint\frac{f(z)}{z-a}dz$ !!!
 
 #### Angle Sum Formula for Cosines
-    $$ \cos(\theta+\phi)=\cos(\theta)\cos(\phi)−\sin(\theta)\sin(\phi) $$
+$$ \cos(\theta+\phi)=\cos(\theta)\cos(\phi)−\sin(\theta)\sin(\phi) $$
 
 
 ```d
