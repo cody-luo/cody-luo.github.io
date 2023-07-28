@@ -6,10 +6,6 @@ mathjax: true
 ---
 
 # h1
-## h2
-### h3
-#### h4
-##### h5
 
 [link](#)
 
@@ -17,14 +13,22 @@ mathjax: true
 
 - l
 - i
-- s
-- t
 
 word-breaking word-breaking
+
 \\( MathJax \\)
 
 When \\(a \ne 0\\), there are two solutions to \\(ax^2 + bx + c = 0\\) and   they are
      \\[x = {-b \pm \sqrt{b^2-4ac} \over 2a}.\\]
+
+
+
+#### Cauchy's Integral Formula
+    Cauchy's Integral Formula is:  $f(a) = \frac{1}{2\pi i} \oint\frac{f(z)}{z-a}dz$ !!!
+
+#### Angle Sum Formula for Cosines
+    $$ \cos(\theta+\phi)=\cos(\theta)\cos(\phi)−\sin(\theta)\sin(\phi) $$
+
 
 ```d
 import std.stdio;
@@ -47,3 +51,4 @@ void main()
 | be         | be          | be           |
 | left       | right       | center       |
 | aligned    | aligned     | aligned      |
+
