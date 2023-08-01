@@ -26,7 +26,7 @@ google_analytics: # Enter your tracking ID.
 
 # Build settings
 
-theme: minima
+#theme: minima
 
 plugins:
   - jekyll-feed
