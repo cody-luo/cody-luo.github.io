@@ -9,7 +9,7 @@ Email: cody@ustc.edu
 
 <section id="tipme">
     <h3>Tip Me! Your support is my motivation.</h3>
-    <div style="display: flex;">
+    <div style="display: flex; flex-direction: column;">
         <div>
             <div class="mb-5">
                 <h4>PayPal</h4>
