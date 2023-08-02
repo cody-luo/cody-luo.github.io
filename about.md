@@ -25,7 +25,7 @@ Email: cody@ustc.edu
                 <h4>WeChat</h4>
             </div>
             <div class="mb-5">
-                <div class="mx-auto" style="max-width: 200px; max-height: 200px">
+                <div>
                     <img src="/assets/images/tip_wechat.jpg" width="200px">
                 </div>
             </div>
@@ -35,7 +35,7 @@ Email: cody@ustc.edu
                 <h4>Alipay</h4>
             </div>
             <div class="mb-5">
-                <div class="mx-auto" style="max-width: 200px; max-height: 200px">
+                <div>
                     <img src="/assets/images/tip_alipay.jpg" width="200px">
                 </div>
             </div>
@@ -44,7 +44,7 @@ Email: cody@ustc.edu
             <div class="mb-5">
                 <h4>Bitcoin</h4>
             </div>
-            <div class="mx-auto" style="max-width: 200px; max-height: 200px">
+            <div>
                 <img src="/assets/images/bitcoin-shoukuan.jpg" width="200px">
             </div>
             <p><code style="font-size: 1rem; word-break: break-all">BTC: bc1qtlkhl9cusez69pephgfljuqzy5nht3la4r7vy0</code>
