@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "ssh gitpod 实现科学上网"
-tags: hack
+tags: 编程 免费资源
 ---
 
 gitpod.io提供了在线Vscode编辑环境，并且允许ssh登录到你的在线工程。 `ssh user@example.com -D 1080` 实现了端口转发，相当于开启了一个本地Sock5代理。浏览器插件SwitchyOmega可以设置sock5代理127.0.0.1:1080上网。这样，你就可以利用gitpod的云端服务器做中转实现科学上网。亲测连接YouTube，Google，Netflix，tiktok没问题，而且速度非常快。
