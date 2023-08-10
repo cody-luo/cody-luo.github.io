@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Hi~~~~, I'm Cody Luo!  
+Hi~~~~, I'm Cody Luo!  I like programming, [math](https://github.com/a-boy/playmath), 棋类, 国标麻将, ping-pong, starcraft, paoniu...
 Email: cody@ustc.edu
 
 <section id="tipme">
     <h3>Tip Me! Your support is my motivation.</h3>
-    <div style="display: flex; flex-direction: column;">
+    <div style="display: flex; flex-direction: row;flex-wrap: wrap;">
         <div>
             <div class="mb-5">
                 <h4>PayPal</h4>
