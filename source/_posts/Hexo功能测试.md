@@ -2,6 +2,7 @@
 title: '''Hexo功能测试'''
 date: 2024-08-22 11:52:38
 tags:
+mathjax: true
 ---
 
 - moonriver
