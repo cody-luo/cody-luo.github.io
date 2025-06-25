@@ -8,6 +8,8 @@ on:
 jobs:
   build:
     name: Publish site
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     steps:
     - name: Checkout main
@@ -16,3 +18,4 @@ jobs:
       uses: shalzz/zola-deploy-action@v0.20.0
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    
