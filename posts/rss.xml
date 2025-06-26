@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Cody Luo - serene::posts</title>
+      <link>https://cody-luo.github.io/posts/</link>
+      <description>xxx</description>
+      <generator>Zola</generator>
+      <language>zh-CN</language>
+      <atom:link href="https://cody-luo.github.io/posts/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Wed, 25 Jun 2025 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>202506近日编程学习路线</title>
+          <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://cody-luo.github.io/posts/202506jin-ri-bian-cheng-xue-xi-lu-xian/</link>
+          <guid>https://cody-luo.github.io/posts/202506jin-ri-bian-cheng-xue-xi-lu-xian/</guid>
+          <description xml:base="https://cody-luo.github.io/posts/202506jin-ri-bian-cheng-xue-xi-lu-xian/">&lt;ul&gt;
+&lt;li&gt;Pake PakePlus&lt;&#x2F;li&gt;
+&lt;li&gt;uv&lt;&#x2F;li&gt;
+&lt;li&gt;tkinter&lt;&#x2F;li&gt;
+&lt;li&gt;jupyterlab&lt;&#x2F;li&gt;
+&lt;li&gt;HexHub&lt;&#x2F;li&gt;
+&lt;li&gt;httpie&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;http:&#x2F;&#x2F;142.250.198.78&#x2F; 直接打开google&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;bat&quot; class=&quot;language-bat z-code&quot;&gt;&lt;code class=&quot;language-bat&quot; data-lang=&quot;bat&quot;&gt;&lt;span class=&quot;z-source z-dosbatch&quot;&gt;&lt;span class=&quot;z-keyword z-command z-dosbatch&quot;&gt;dir&lt;&#x2F;span&gt; &lt;span class=&quot;z-keyword z-operator z-pipe z-dosbatch&quot;&gt;|&lt;&#x2F;span&gt; &lt;span class=&quot;z-keyword z-command z-dosbatch&quot;&gt;clip&lt;&#x2F;span&gt;
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-source z-dosbatch&quot;&gt;&lt;span class=&quot;z-keyword z-command z-dosbatch&quot;&gt;Set&lt;&#x2F;span&gt;&lt;span class=&quot;z-variable z-other z-readwrite z-dosbatch&quot;&gt;-Clipboard &amp;quot;sdgsg gg  gd&amp;quot;&lt;&#x2F;span&gt;
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-source z-dosbatch&quot;&gt;Get-Clipboard &lt;span class=&quot;z-keyword z-operator z-redirection z-dosbatch&quot;&gt;&amp;gt;&lt;&#x2F;span&gt; myfile.txt
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-source z-dosbatch&quot;&gt;
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-source z-dosbatch&quot;&gt;&lt;span class=&quot;z-keyword z-command z-dosbatch&quot;&gt;netstat&lt;&#x2F;span&gt; -ano
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;en.wikibooks.org&#x2F;wiki&#x2F;LaTeX&#x2F;Mathematics&quot;&gt;https:&#x2F;&#x2F;en.wikibooks.org&#x2F;wiki&#x2F;LaTeX&#x2F;Mathematics&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;microsoft&#x2F;Web-Dev-For-Beginners&quot;&gt;https:&#x2F;&#x2F;github.com&#x2F;microsoft&#x2F;Web-Dev-For-Beginners&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Sagemath example</title>
+          <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://cody-luo.github.io/posts/sagecell-example/</link>
+          <guid>https://cody-luo.github.io/posts/sagecell-example/</guid>
+          <description xml:base="https://cody-luo.github.io/posts/sagecell-example/">&lt;p&gt;&lt;em&gt;Powered by &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.mathjax.org&#x2F;&quot;&gt;MathJax&lt;&#x2F;a&gt; and &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.sagemath.org&#x2F;&quot;&gt;SageMath&lt;&#x2F;a&gt;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;When \(a \ne 0\), there are two solutions to \(ax^2 + bx + c = 0\) and they are
+  \[x = {-b \pm \sqrt{b^2-4ac} \over 2a}.\]
+&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;sagecellshi-li&quot;&gt;SageCell示例&lt;a class=&quot;zola-anchor&quot; href=&quot;#sagecellshi-li&quot; aria-label=&quot;Anchor link for: sagecellshi-li&quot; style=&quot;visibility: hidden;&quot;&gt;&lt;&#x2F;a&gt;
+&lt;&#x2F;h3&gt;
+&lt;h4 id=&quot;jian-dan-ji-suan&quot;&gt;简单计算&lt;a class=&quot;zola-anchor&quot; href=&quot;#jian-dan-ji-suan&quot; aria-label=&quot;Anchor link for: jian-dan-ji-suan&quot; style=&quot;visibility: hidden;&quot;&gt;&lt;&#x2F;a&gt;
+&lt;&#x2F;h4&gt;
+&lt;div class=&quot;sage&quot;&gt;&lt;code type=&quot;text&#x2F;x-sage&quot;&gt;
+print(&quot;Hello from SageCell!&quot;)
+&lt;p&gt;#三角函数图像
+plot(sin(x), (x, 0, 2*pi))
+&lt;&#x2F;code&gt;&lt;&#x2F;div&gt;&lt;&#x2F;p&gt;
+&lt;div class=&quot;sage&quot;&gt;&lt;script type=&quot;text&#x2F;x-sage&quot;&gt;
+[1,2,3]
+&lt;p&gt;#測試注釋&lt;&#x2F;p&gt;
+&lt;p&gt;plot(cos(1&#x2F;x), (x, 0, 2*pi))
+&lt;&#x2F;script&gt;&lt;&#x2F;div&gt;&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;jiao-hu-shi-ji-suan&quot;&gt;交互式计算&lt;a class=&quot;zola-anchor&quot; href=&quot;#jiao-hu-shi-ji-suan&quot; aria-label=&quot;Anchor link for: jiao-hu-shi-ji-suan&quot; style=&quot;visibility: hidden;&quot;&gt;&lt;&#x2F;a&gt;
+&lt;&#x2F;h4&gt;
+&lt;div class=&quot;sage&quot;&gt;
+@interact
+def _(a=(1, 10)):
+    print(factorial(a))
+&lt;&#x2F;div&gt;</description>
+      </item>
+    </channel>
+</rss>
