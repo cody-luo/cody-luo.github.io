@@ -6,7 +6,7 @@
 #=========================================================================================
 
 base_url = "https://cody-luo.github.io"
-title = "Cody Luo's Blog"
+title = "Cody Luo"
 description = "xxx"
 default_language = "zh-CN"
 theme = "serene"

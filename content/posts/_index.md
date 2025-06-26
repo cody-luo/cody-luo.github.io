@@ -17,7 +17,7 @@ categorized = false
 back_to_top = true
 toc = false
 copy = true
-comment = false
+comment = true
 date_format = "%Y-%m-%d"
 
 outdate_alert = false
